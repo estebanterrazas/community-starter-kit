@@ -2,11 +2,11 @@
 
 DESCRIPTION PLACEHOLDER
 
-## What it does
+## What it does ayuda a mejorara
 
 FEATURES PLACEHOLDER
 
-## Getting started
+## Getting started es un crack de gitlab
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
